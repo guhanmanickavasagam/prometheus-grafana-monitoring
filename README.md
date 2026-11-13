@@ -1,5 +1,4 @@
 # prometheus-grafana-monitoring
-# prometheus-grafana-monitoring 
 
 Prometheus is configured to scrape metrics every 15 seconds.
 
